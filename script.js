@@ -5,7 +5,7 @@ let score = 20;
 let highscore = 0;
 const displayMessage = function(message){
     document.querySelector('.message').textContent = message;
-}
+}ff
 
 document.querySelector('.check').addEventListener('click', function()
 {
