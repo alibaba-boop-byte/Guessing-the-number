@@ -5,8 +5,7 @@ let score = 20;
 let highscore = 0;
 const displayMessage = function(message){
     document.querySelector('.message').textContent = message;
-}ff
-
+}hello
 document.querySelector('.check').addEventListener('click', function()
 {
     const guess = Number(document.querySelector('.guess').value);
